@@ -1,2 +1,2 @@
-# Identify_Patterns_That_Determine_Whether_A_Game_Can_Be_Said_To_Be_Successful_Or_Not
+# Identify_Patterns_And_Hypothesis_Testing_Of_Game_Sales_Data
 
